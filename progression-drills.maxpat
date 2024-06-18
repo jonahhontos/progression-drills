@@ -3,14 +3,14 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 8,
-			"minor" : 5,
+			"minor" : 6,
 			"revision" : 1,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 87.0, 2492.0, 1234.0 ],
+		"rect" : [ 34.0, 87.0, 1612.0, 847.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -69,7 +69,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1541.0, 1643.0, 50.0, 22.0 ],
-					"text" : "9 2 3"
+					"text" : "0 2 0"
 				}
 
 			}
@@ -93,7 +93,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 6,
 							"revision" : 1,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -1098,7 +1098,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 333.0, 1247.0, 50.0, 22.0 ],
-					"text" : "2 3 6 7"
+					"text" : "3 5 1"
 				}
 
 			}
@@ -1412,7 +1412,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 6,
 							"revision" : 1,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -3752,7 +3752,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1266.0, 1797.0, 50.0, 22.0 ],
-					"text" : "9 2 3"
+					"text" : "7 2 3"
 				}
 
 			}
@@ -3764,7 +3764,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1316.0, 1718.0, 50.0, 22.0 ],
-					"text" : "9 2 3"
+					"text" : "0 2 0"
 				}
 
 			}
@@ -4152,404 +4152,8 @@
 , 			{
 				"box" : 				{
 					"coll_data" : 					{
-						"count" : 99,
-						"data" : [ 							{
-								"key" : 0,
-								"value" : [ 0, 2, 1 ]
-							}
-, 							{
-								"key" : 1,
-								"value" : [ 0, 1, 1 ]
-							}
-, 							{
-								"key" : 2,
-								"value" : [ 0, 1, 3 ]
-							}
-, 							{
-								"key" : 3,
-								"value" : [ 7, 2, 0 ]
-							}
-, 							{
-								"key" : 4,
-								"value" : [ 7, 2, 1 ]
-							}
-, 							{
-								"key" : 5,
-								"value" : [ 7, 2, 3 ]
-							}
-, 							{
-								"key" : 6,
-								"value" : [ 7, 1, 1 ]
-							}
-, 							{
-								"key" : 7,
-								"value" : [ 7, 1, 3 ]
-							}
-, 							{
-								"key" : 8,
-								"value" : [ 5, 2, 2 ]
-							}
-, 							{
-								"key" : 9,
-								"value" : [ 5, 1, 2 ]
-							}
-, 							{
-								"key" : 10,
-								"value" : [ 5, 1, 3 ]
-							}
-, 							{
-								"key" : 11,
-								"value" : [ 2, 5, 3 ]
-							}
-, 							{
-								"key" : 12,
-								"value" : [ 2, 4, 0 ]
-							}
-, 							{
-								"key" : 13,
-								"value" : [ 2, 2, 2 ]
-							}
-, 							{
-								"key" : 14,
-								"value" : [ 2, 3, 2 ]
-							}
-, 							{
-								"key" : 15,
-								"value" : [ 3, 1, 1 ]
-							}
-, 							{
-								"key" : 16,
-								"value" : [ 3, 7, 3 ]
-							}
-, 							{
-								"key" : 17,
-								"value" : [ 3, 8, 2 ]
-							}
-, 							{
-								"key" : 18,
-								"value" : [ 3, 6, 2 ]
-							}
-, 							{
-								"key" : 19,
-								"value" : [ 3, 4, 1 ]
-							}
-, 							{
-								"key" : 20,
-								"value" : [ 3, 4, 3 ]
-							}
-, 							{
-								"key" : 21,
-								"value" : [ 4, 1, 0 ]
-							}
-, 							{
-								"key" : 22,
-								"value" : [ 4, 1, 2 ]
-							}
-, 							{
-								"key" : 23,
-								"value" : [ 4, 7, 3 ]
-							}
-, 							{
-								"key" : 24,
-								"value" : [ 4, 5, 0 ]
-							}
-, 							{
-								"key" : 25,
-								"value" : [ 4, 6, 0 ]
-							}
-, 							{
-								"key" : 26,
-								"value" : [ 4, 6, 3 ]
-							}
-, 							{
-								"key" : 27,
-								"value" : [ 4, 3, 0 ]
-							}
-, 							{
-								"key" : 28,
-								"value" : [ 5, 1, 0 ]
-							}
-, 							{
-								"key" : 29,
-								"value" : [ 5, 1, 1 ]
-							}
-, 							{
-								"key" : 30,
-								"value" : [ 5, 8, 0 ]
-							}
-, 							{
-								"key" : 31,
-								"value" : [ 5, 8, 2 ]
-							}
-, 							{
-								"key" : 32,
-								"value" : [ 5, 5, 0 ]
-							}
-, 							{
-								"key" : 33,
-								"value" : [ 6, 7, 0 ]
-							}
-, 							{
-								"key" : 34,
-								"value" : [ 6, 7, 1 ]
-							}
-, 							{
-								"key" : 35,
-								"value" : [ 6, 3, 2 ]
-							}
-, 							{
-								"key" : 36,
-								"value" : [ 7, 7, 1 ]
-							}
-, 							{
-								"key" : 37,
-								"value" : [ 7, 7, 3 ]
-							}
-, 							{
-								"key" : 38,
-								"value" : [ 7, 5, 2 ]
-							}
-, 							{
-								"key" : 39,
-								"value" : [ 7, 4, 2 ]
-							}
-, 							{
-								"key" : 40,
-								"value" : [ 7, 4, 3 ]
-							}
-, 							{
-								"key" : 41,
-								"value" : [ 8, 5, 2 ]
-							}
-, 							{
-								"key" : 42,
-								"value" : [ 8, 2, 1 ]
-							}
-, 							{
-								"key" : 43,
-								"value" : [ 8, 3, 0 ]
-							}
-, 							{
-								"key" : 44,
-								"value" : [ 9, 8, 0 ]
-							}
-, 							{
-								"key" : 45,
-								"value" : [ 9, 5, 2 ]
-							}
-, 							{
-								"key" : 46,
-								"value" : [ 9, 4, 1 ]
-							}
-, 							{
-								"key" : 47,
-								"value" : [ 10, 1, 2 ]
-							}
-, 							{
-								"key" : 48,
-								"value" : [ 10, 7, 0 ]
-							}
-, 							{
-								"key" : 49,
-								"value" : [ 11, 1, 2 ]
-							}
-, 							{
-								"key" : 50,
-								"value" : [ 11, 7, 0 ]
-							}
-, 							{
-								"key" : 51,
-								"value" : [ 11, 7, 1 ]
-							}
-, 							{
-								"key" : 52,
-								"value" : [ 11, 8, 1 ]
-							}
-, 							{
-								"key" : 53,
-								"value" : [ 11, 5, 2 ]
-							}
-, 							{
-								"key" : 54,
-								"value" : [ 11, 6, 2 ]
-							}
-, 							{
-								"key" : 55,
-								"value" : [ 11, 3, 1 ]
-							}
-, 							{
-								"key" : 56,
-								"value" : [ 11, 3, 2 ]
-							}
-, 							{
-								"key" : 57,
-								"value" : [ 6, 3, 1 ]
-							}
-, 							{
-								"key" : 58,
-								"value" : [ 8, 4, 0 ]
-							}
-, 							{
-								"key" : 59,
-								"value" : [ 8, 4, 2 ]
-							}
-, 							{
-								"key" : 60,
-								"value" : [ 8, 2, 1 ]
-							}
-, 							{
-								"key" : 61,
-								"value" : [ 8, 3, 0 ]
-							}
-, 							{
-								"key" : 62,
-								"value" : [ 8, 3, 3 ]
-							}
-, 							{
-								"key" : 63,
-								"value" : [ 9, 1, 0 ]
-							}
-, 							{
-								"key" : 64,
-								"value" : [ 9, 1, 2 ]
-							}
-, 							{
-								"key" : 65,
-								"value" : [ 9, 8, 1 ]
-							}
-, 							{
-								"key" : 66,
-								"value" : [ 9, 8, 2 ]
-							}
-, 							{
-								"key" : 67,
-								"value" : [ 9, 5, 2 ]
-							}
-, 							{
-								"key" : 68,
-								"value" : [ 9, 6, 0 ]
-							}
-, 							{
-								"key" : 69,
-								"value" : [ 10, 1, 0 ]
-							}
-, 							{
-								"key" : 70,
-								"value" : [ 10, 5, 0 ]
-							}
-, 							{
-								"key" : 71,
-								"value" : [ 10, 5, 2 ]
-							}
-, 							{
-								"key" : 72,
-								"value" : [ 10, 6, 1 ]
-							}
-, 							{
-								"key" : 73,
-								"value" : [ 10, 6, 3 ]
-							}
-, 							{
-								"key" : 74,
-								"value" : [ 10, 4, 2 ]
-							}
-, 							{
-								"key" : 75,
-								"value" : [ 10, 2, 0 ]
-							}
-, 							{
-								"key" : 76,
-								"value" : [ 10, 2, 1 ]
-							}
-, 							{
-								"key" : 77,
-								"value" : [ 10, 2, 2 ]
-							}
-, 							{
-								"key" : 78,
-								"value" : [ 10, 3, 1 ]
-							}
-, 							{
-								"key" : 79,
-								"value" : [ 10, 3, 2 ]
-							}
-, 							{
-								"key" : 80,
-								"value" : [ 11, 5, 1 ]
-							}
-, 							{
-								"key" : 81,
-								"value" : [ 11, 6, 0 ]
-							}
-, 							{
-								"key" : 82,
-								"value" : [ 11, 4, 1 ]
-							}
-, 							{
-								"key" : 83,
-								"value" : [ 11, 4, 2 ]
-							}
-, 							{
-								"key" : 84,
-								"value" : [ 11, 4, 3 ]
-							}
-, 							{
-								"key" : 85,
-								"value" : [ 11, 2, 2 ]
-							}
-, 							{
-								"key" : 86,
-								"value" : [ 1, 2, 1 ]
-							}
-, 							{
-								"key" : 87,
-								"value" : [ 10, 7, 1 ]
-							}
-, 							{
-								"key" : 88,
-								"value" : [ 11, 5, 3 ]
-							}
-, 							{
-								"key" : 89,
-								"value" : [ 10, 3, 0 ]
-							}
-, 							{
-								"key" : 90,
-								"value" : [ 0, 8, 2 ]
-							}
-, 							{
-								"key" : 91,
-								"value" : [ 4, 3, 1 ]
-							}
-, 							{
-								"key" : 92,
-								"value" : [ 8, 3, 2 ]
-							}
-, 							{
-								"key" : 93,
-								"value" : [ 10, 6, 1 ]
-							}
-, 							{
-								"key" : 94,
-								"value" : [ 11, 5, 2 ]
-							}
-, 							{
-								"key" : 95,
-								"value" : [ 11, 7, 2 ]
-							}
-, 							{
-								"key" : 96,
-								"value" : [ 3, 2, 0 ]
-							}
-, 							{
-								"key" : 97,
-								"value" : [ 9, 11, 3 ]
-							}
-, 							{
-								"key" : 98,
-								"value" : [ 9, 4, 1 ]
-							}
- ]
+						"count" : 0,
+						"data" : [  ]
 					}
 ,
 					"id" : "obj-230",
@@ -4878,7 +4482,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 6,
 							"revision" : 1,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -5127,7 +4731,7 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 5,
+											"minor" : 6,
 											"revision" : 1,
 											"architecture" : "x64",
 											"modernui" : 1
@@ -6693,7 +6297,7 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 319.25, 672.0, 50.0, 22.0 ],
-													"text" : "5"
+													"text" : "7"
 												}
 
 											}
@@ -7613,7 +7217,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1551.0, 1848.0, 50.0, 22.0 ],
-					"text" : "3"
+					"text" : "0"
 				}
 
 			}
@@ -7625,7 +7229,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1342.0, 1848.0, 50.0, 22.0 ],
-					"text" : "9"
+					"text" : "0"
 				}
 
 			}
@@ -7872,7 +7476,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 6,
 							"revision" : 1,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -7928,7 +7532,7 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 5,
+											"minor" : 6,
 											"revision" : 1,
 											"architecture" : "x64",
 											"modernui" : 1
@@ -8419,7 +8023,7 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 5,
+											"minor" : 6,
 											"revision" : 1,
 											"architecture" : "x64",
 											"modernui" : 1
@@ -9013,7 +8617,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 2,
 					"numoutlets" : 1,
-					"outlettype" : [ "int" ],
+					"outlettype" : [ "" ],
 					"patching_rect" : [ 1194.0, 1645.0, 62.0, 22.0 ],
 					"text" : "random"
 				}
@@ -9138,8 +8742,52 @@
 , 			{
 				"box" : 				{
 					"coll_data" : 					{
-						"count" : 0,
-						"data" : [  ]
+						"count" : 11,
+						"data" : [ 							{
+								"key" : 0,
+								"value" : [ 0, 2, 3 ]
+							}
+, 							{
+								"key" : 1,
+								"value" : [ 0, 1, 3 ]
+							}
+, 							{
+								"key" : 2,
+								"value" : [ 7, 1, 1 ]
+							}
+, 							{
+								"key" : 3,
+								"value" : [ 7, 1, 2 ]
+							}
+, 							{
+								"key" : 4,
+								"value" : [ 7, 1, 3 ]
+							}
+, 							{
+								"key" : 5,
+								"value" : [ 5, 2, 0 ]
+							}
+, 							{
+								"key" : 6,
+								"value" : [ 5, 2, 1 ]
+							}
+, 							{
+								"key" : 7,
+								"value" : [ 5, 2, 3 ]
+							}
+, 							{
+								"key" : 8,
+								"value" : [ 5, 1, 0 ]
+							}
+, 							{
+								"key" : 9,
+								"value" : [ 5, 1, 1 ]
+							}
+, 							{
+								"key" : 10,
+								"value" : [ 5, 1, 3 ]
+							}
+ ]
 					}
 ,
 					"id" : "obj-26",
@@ -9444,7 +9092,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 6,
 							"revision" : 1,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -11950,7 +11598,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 6,
 							"revision" : 1,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -14009,11 +13657,13 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-64",
+					"linecount" : 19,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 180.0, 963.0, 50.0, 22.0 ]
+					"patching_rect" : [ 180.0, 963.0, 50.0, 263.0 ],
+					"text" : "65 74 67 65 74 65 74 67 65 74 67 65 74 67 65 74 67 65 74 67 65 74 67 65 72 66 72 65 63 70 71 69 71 62 60 71 62 60"
 				}
 
 			}
@@ -15346,7 +14996,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 6,
 							"revision" : 1,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -16231,7 +15881,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 6,
 							"revision" : 1,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -17771,7 +17421,7 @@
 					"patching_rect" : [ 1689.0, 711.0, 69.0, 47.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 858.0, 293.0, 110.0, 47.0 ],
-					"text" : "3rd"
+					"text" : "rt"
 				}
 
 			}
@@ -17954,7 +17604,7 @@
 					"patching_rect" : [ 1491.0, 705.0, 71.0, 60.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 588.0, 286.0, 71.0, 60.0 ],
-					"text" : "A",
+					"text" : "C",
 					"textjustification" : 2
 				}
 
@@ -18338,7 +17988,7 @@
 					"patching_rect" : [ 1046.0, 594.0, 101.0, 87.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 541.0, 206.0, 101.0, 87.0 ],
-					"text" : "A",
+					"text" : "G",
 					"textjustification" : 2
 				}
 
